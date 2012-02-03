@@ -57,6 +57,10 @@ class Clock
     strfclock("%l:%M %p")
   end
   
+  def inspect
+    strfclock("%l:%M %p")
+  end
+  
   def to_i
     @sec + (@min * 60) + (@hour * 60**2)
   end

@@ -47,6 +47,13 @@ class ClockTest < Test::Unit::TestCase
     end
   end
   
+  context ".inspect" do
+    should "return clock as hours:minutes" do
+      clock = Clock.new(13, 20)
+      assert_equal " 1:20 PM", clock.inspect
+    end
+  end
+  
   context ".==" do
     should "check equality" do
       assert Clock.new(3, 24) == Clock.new(3, 24)
