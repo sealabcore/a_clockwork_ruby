@@ -5,11 +5,11 @@
 
 Gem::Specification.new do |s|
   s.name = "a_clockwork_ruby"
-  s.version = "0.0.2"
+  s.version = "0.0.3"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Mike Taylor", "Michael Pearce"]
-  s.date = "2012-02-03"
+  s.date = "2012-02-07"
   s.description = "A clock class for use with time of day"
   s.email = "michael.taylor@bookrenter.com"
   s.extra_rdoc_files = [
