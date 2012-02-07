@@ -41,7 +41,7 @@ clock.strfclock('%H:%M:%S')
 
 # Credits
 
-Shared Shoulda is maintained by [Mike Taylor](http://github.com/sealabcore) and is funded by [BookRenter.com](http://www.bookrenter.com "BookRenter.com"). Help provided by [Michael Pearce](http://github.com/michaelgpearce), and [Miguel Huibonhoa](http://github.com/phuibonhoa).
+A Clockwork Ruby is maintained by [Mike Taylor](http://github.com/sealabcore) and is funded by [BookRenter.com](http://www.bookrenter.com "BookRenter.com"). Help provided by [Michael Pearce](http://github.com/michaelgpearce), and [Miguel Huibonhoa](http://github.com/phuibonhoa).
 
 ![BookRenter.com Logo](http://assets0.bookrenter.com/images/header/bookrenter_logo.gif "BookRenter.com")
 
